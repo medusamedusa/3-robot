@@ -8,7 +8,7 @@ The content is the following:
 - file (GHZ.qasm): the Qiskit code of the GHZ circuit
 - file (code_1_January_2022.ipynb): code Jupyter/Python locally calling IBM QASM Simulator
 - file (video_3-robot.m4v): the video simulation of Test1
-- zip file (gate_xy_screenshots): the screenshots of our circuit run on QASM Simulator and three different quantum computers (Bogotà, Lima, Manila)
+- zip files with the screenshots of our circuit run on QASM Simulator (QASM_simulator.zip) and three different quantum computers (quantum_computer_Lima.zip, quantum_computer_Bogotà.zip, quantum_computer_Manila.zip)
 - zip file (trials_Jan_29): PDF versions of the code in the Ant Lines setup
 
 The core codes are given here as .qasm files. To be compiled, their content should be copy-pasted into IBM Quantum Composer (https://quantum-computing.ibm.com/composer/) and be run online. Alternatively, the files .qasm can be called from Quantum Composer.
