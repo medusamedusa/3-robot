@@ -7,7 +7,7 @@ The content is the following:
 - file (xy_robots_code.qasm): the Qiskit code of the 3-robot circuit
 - file (GHZ.qasm): the Qiskit code of the GHZ circuit
 - file (code_1_January_2022.ipynb): code Jupyter/Python locally calling IBM QASM Simulator
-- file (video_3-robot.m4v): the video simulation of Test1
+- file (animation_.m4v): the video simulation of Test1
 - zip files with the screenshots of our circuit run on QASM Simulator (QASM_simulator.zip) and three different quantum computers (quantum_computer_Lima.zip, quantum_computer_Bogotà.zip, quantum_computer_Manila.zip)
 - zip file (trials_Jan_29): PDF versions of the code in the Ant Lines setup
 
